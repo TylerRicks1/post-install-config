@@ -43,7 +43,7 @@ In the admin panel
 	- Select Permissions tab and check every box under the "Tickets", "Tasks" and "Knowledgebase" section
 - Select Add Role
 <p>
-<img src="https://i.imgur.com/Dy6uQiW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5tVVX8e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Configure Departments</h2>
@@ -53,8 +53,8 @@ In the admin panel
 	- Name: System Administrators
 - Select Create Deptartment 
 <p>
-<img src="https://i.imgur.com/Q6eyyYZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/rjvmSSp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ZCvLxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hYlBpT4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>	
 	
@@ -66,8 +66,8 @@ In the admin panel
 - Go to members tab and select yourself in "Select Agent" dropdown menu
 - Select create team. 
 <p>
-<img src="https://i.imgur.com/ZVMQCgr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/obTQZlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/90A9Thc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LGfX8Dr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>	
 	
@@ -77,7 +77,7 @@ In the admin panel
 - Select the Settings -> User Settings
 - Make sure box the "Registration Required: "Require registration and login to create tickets"is unchecked:  
 <p>
-<img src="https://i.imgur.com/wrnMuN9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JV6rpkd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>		
 	
@@ -93,8 +93,8 @@ In the admin panel
 		- uncheck "require password change at next login" box
 		- set
 <p>
-<img src="https://i.imgur.com/IqORAgl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3dO2yIQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/feSztGC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Select Access tab 
