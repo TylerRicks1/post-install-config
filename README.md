@@ -109,8 +109,8 @@ In the admin panel
 - Select Create	
 
 <p>
-<img src="https://i.imgur.com/cT6DZrl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/9KosaQZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 
 - Create another agent named john and repeat the process again.
@@ -121,8 +121,8 @@ In the admin panel
 		- Select Department -> Support -> Save Changes
 
 <p>
-<img src="https://imgur.com/cIc3Nhz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/c9AkP3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5m4QbFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nn0JfQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -136,7 +136,7 @@ In the admin panel
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/uDry69l.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/3P6AAAW.png" height="80%" width="80%" />
 
 - Select user tab again to create another user
 	- Email Address: Ken@osticket.com
@@ -144,7 +144,7 @@ In the admin panel
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/FploSL2.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/R9o7dbG.png" height="80%" width="80%" />
 
 
 <h2>Configure Service Level Agreements(SLAs)</h2>
@@ -157,7 +157,7 @@ In the admin panel
 	- Select Add Plan	
 	
 <p align="center">
-<img src="https://i.imgur.com/RTQAZqQ.png" height="80%" width="80%" /> <img src="https://i.imgur.com/nLy3nPA.png" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/v8A8WuT.png" height="80%" width="80%" /> <img src="https://i.imgur.com/8kG8Y7s.png" height="80%" width="80%" alt=/>
 </p>
 
 - Name: SEV-B
@@ -166,7 +166,7 @@ In the admin panel
 - Select Add Plan
 	
 <p align="center">
-<img src="https://imgur.com/GjQUZX8.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/XusprXO.png" height="80%" width="80%" />
 </p>
 
 - Name: SEV-C 
@@ -175,7 +175,7 @@ In the admin panel
 - Select Add Plan
 
 <p align="center">
-<img src="https://i.imgur.com/TPhqU1c.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/299PKRB.png" height="80%" width="80%" />
 	
 
 	
@@ -190,7 +190,7 @@ In the admin panel
 - Select Add Topic for each topic
 
 <p align="center">
-<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/PVlJh4x.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/fMpQIAB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/eWf36p1.png" height="80%" width="80%" />
 
 Done.
